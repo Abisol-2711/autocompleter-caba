@@ -11,7 +11,7 @@
 1. Clonar repo
 
 ```
-git clone git@github.com:Abisol-2711/autocompleter-caba.git
+git clone https://github.com/Abisol-2711/autocompleter-caba.git
 ```
 
 2. Ir a la carpeta
