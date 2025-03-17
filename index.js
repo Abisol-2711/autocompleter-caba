@@ -42,6 +42,7 @@ const autocompleter = getAutocompleter();
 autocompleter.setCredentials(clientId, clientSecret);
 autocompleter.setApiBaseUrl(apiBaseUrl)
 autocompleter.setGeocodingMethod("geocodificacion_directa");
+autocompleter.setEnableGeocodingMethodFilter(true);
 
 /* Opciones de metodos de geocodificación */
 // autocompleter.setGeocodingMethod("geocodificacion_directa");
